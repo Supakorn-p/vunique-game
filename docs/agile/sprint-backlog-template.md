@@ -12,9 +12,9 @@
 | Sprint | เริ่ม | สิ้นสุด |
 |---|---|---|
 | Core Gameplay | 2026-09-01 | 2026-09-14 |
-| Prototyping | 2026-09-15 | 2026-09-28 |
-| Assets | 2026-09-29 | 2026-10-12 |
-| Content | 2026-10-13 | 2026-10-26 |
+| Assets | 2026-09-15 | 2026-09-28 |
+| Content | 2026-09-29 | 2026-10-12 |
+| Final Polish | 2026-10-13 | 2026-10-26 |
 
 ```mermaid
 gantt
@@ -33,26 +33,28 @@ gantt
 
 | # | User Story | MoSCoW | Estimate (SP) |
 |---|---|---|---|
-| 1 | As a player, I want to move left/right | Must Have | 3 |
-| 2 | As a player, I want to jump | Must Have | 5 |
+| 1 | As a player, I want to enjoy the song and be able to make out what sounds mean what during the game | Must Have | 3 |
 
 ## Sprint 2 (Draft)
 
 | # | User Story | MoSCoW | Estimate (SP) |
 |---|---|---|---|
-| 1 | As a player, I want to see my remaining lives | Should Have | 2 |
+| 1 | As an artist, I want there to be sprites and animations to give the game its charm | Must Have | 3 |
+| 2 | As a player, I want my inputs to be responsive to the rhythm | Must Have | 3 |
 
 ## Sprint 3 (Draft)
 
 | # | User Story | MoSCoW | Estimate (SP) |
 |---|---|---|---|
-| 1 | [User Story ที่วางแผนไว้ล่วงหน้าจาก 01-product-backlog.md] | Should Have | [SP] |
+| 1 | As a player, I want to see how the scenery changes the further you play | Should Have | 3 |
+| 2 | As a designer, I want there to be distractions during gameplay to add some difficulty | Should Have | 3 |
 
 ## Sprint 4 (Draft)
 
 | # | User Story | MoSCoW | Estimate (SP) |
 |---|---|---|---|
-| 1 | As a designer, I want enemy spawn rate stored in a data file | Nice to Have | 3 |
+| 1 | As a player, I'd like to be able to do settings for the calibration | Nice to Have | 3 |
+| 2 | As an animator, I'd like to add more animations to the game to make it more alive | Nice to Have | 3 |
 
 > **Sprint 2-4 คือ draft ระดับ release plan** — เป้าหมายคือฝึกกะจำนวน SP ต่อ Sprint ให้ใกล้เคียง capacity ของทีม ไม่ใช่ล็อก scope ตายตัว ปรับได้ทุกครั้งที่ทำ Sprint Planning ของ Sprint ถัดไป
 >
