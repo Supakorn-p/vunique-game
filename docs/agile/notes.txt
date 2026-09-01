@@ -1,0 +1,12 @@
+whats needed:
+- music/sound design
+- basic sprites/animation
+- responsive feedback (player input)
+
+what would be needed:
+- background that changes with player performance
+- events as distractions (eg. camera zoom)
+
+nice to have:
+- input calibration settings
+- animation (more frames)
