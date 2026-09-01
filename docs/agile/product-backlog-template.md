@@ -9,22 +9,23 @@
 
 | # | User Story | Acceptance Criteria | Estimate (SP) | Sprint |
 |---|---|---|---|---|
-| 1 | As a player, I want to jump, so that I can avoid obstacles | กดปุ่มกระโดดแล้วตัวละครลอยขึ้นแล้วตกลงพื้นเดิม ไม่ทะลุพื้น | 5 | 1 |
-| 2 | [As a ..., I want ..., so that ...] | [เงื่อนไขที่นับว่า Story นี้ "เสร็จจริง"] | [SP] | [เลข sprint หรือ —] |
+| 1 | As a player, I want to enjoy the song and be able to make out what sounds mean what during the game | Compose a song that fits with the current situation and gameplay, add feedback sounds that give the player a better sense of understanding | 5 | 1 |
+| 2 | As an artist, I want there to be sprites and animations to give the game its charm | Compose sprites and animations for the game and work closely with the designer & programmer with it | [SP] | [เลข sprint หรือ —] |
+| 3 | As a player, I want my inputs to be responsive to the rhythm | Make sure the code is optimized for such inputs and make sure it responds well to the song and rhythm while giving good feedback | [SP] | [เลข sprint หรือ —] |
 
 ## Should Have
 
 | # | User Story | Acceptance Criteria | Estimate (SP) | Sprint |
 |---|---|---|---|---|
-| 1 | As a player, I want to see my remaining lives, so that I know how close I am to game over | จำนวนชีวิตแสดงบนจอตลอดเวลา ลดลงทันทีที่โดนโจมตี | 2 | — |
-| 2 | [As a ..., I want ..., so that ...] | [เงื่อนไขที่นับว่า Story นี้ "เสร็จจริง"] | [SP] | — |
+| 1 | As a player, I want to see how the scenery changes the further you play | Make the scenery change as you play by adding more things like characters, objects, etc. | 2 | — |
+| 2 | As a designer, I want there to be distractions during gameplay to add some difficulty | Add gimmicks during gameplay to make players focus on audio cues | [SP] | — |
 
 ## Nice to Have
 
 | # | User Story | Acceptance Criteria | Estimate (SP) | Sprint |
 |---|---|---|---|---|
-| 1 | As a designer, I want enemy spawn rate stored in a data file, so that I can tune difficulty without recompiling | ปรับค่า spawn rate ในไฟล์ data แล้วรันเกมใหม่ ค่าที่เปลี่ยนมีผลทันทีโดยไม่ต้อง build ใหม่ | 3 | — |
-| 2 | [As a ..., I want ..., so that ...] | [เงื่อนไขที่นับว่า Story นี้ "เสร็จจริง"] | [SP] | — |
+| 1 | As a player, I'd like to be able to do settings for the calibration | Add a setting for calibration for accessibility | 3 | — |
+| 2 | As an animator, I'd like to add more animations to the game to make it more alive | Give the spritesheets more frames to implement in game | [SP] | — |
 
 ## MoSCoW Legend
 - **Must Have** — จำเป็นต่อ core gameplay loop เกมเล่นไม่ได้ถ้าขาด (MVP)
