@@ -10,8 +10,18 @@
 
 ## Action Items & Blockers Resolution
 
-- ยังไม่มี
+- [ ] [ ทำ และให้เพื่อนเช็ค asset prototype ] [status:: done ] [owner:: กาน]
+  [due:: done 8/8/2026 ]
 
+- [ ] [ เช็ค animation ตัวละคร สำหรับใช้จริงคร่าวๆ ] [status:: in progress] [owner:: กาน]
+  [due:: 20/8/2026]
+
+- [ ] [ UI ] [status:: in progress] [owner:: กาน]
+  [due:: 20/8/2026]
+
+- [ ] [ cover game ] [status:: in progress] [owner:: กาน]
+  [due:: 20/8/2026]
+  
 ---
 
 ## Related Documents - [[docs/agile/sprint-plan-01|Sprint 1 Plan]] - [[docs/agile/02-sprint-backlog|Sprint Backlog]]
