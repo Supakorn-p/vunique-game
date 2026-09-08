@@ -36,7 +36,8 @@
 
 ### Story 1 — [Song & Sounds]
 - [ 1 ] [Song Composing]  [owner:: โตเกียว]  [estimate:: --]  [status:: 🔲 Todo]
-- [ 2 ] [Sound Designing]  [owner:: โตเกียว, เซบาส]  [estimate:: --]  [status:: 🔲 Todo]
+- [ 2 ] [Sound Designing]  [owner:: โตเกียว, เซบาส]
+[domain:: sound designer]  [estimate:: 5 days] [actual:: 6 days]  [status:: 🔄 In Progress]
 
 ### Story 2 — [Primary Sprites & Animations]
 - [ 1 ] [Spriting]  [owner:: กาน, พี]  [estimate:: --]  [status:: 🔲 Todo]
@@ -51,8 +52,8 @@
 - [ 1 ] [More Sprites]  [owner:: กาน, พี]  [estimate:: --]  [status:: 🔲 Todo]
 
 ### Story 5 — [Distractions]
-- [ 1 ] [Distractions Addition]  [owner:: เซบาส]  [estimate:: --]  [status:: 🔲 Todo]
-- [ 2 ] [Distractions Designing]  [owner:: เซบาส]  [estimate:: --]  [status:: 🔲 Todo]
+- [ 1 ] [Distractions Addition]  [owner:: เซบาส]  [estimate:: 3 days]  [status:: 🔄 In Progress]
+- [ 2 ] [Distractions Designing]  [owner:: เซบาส]  [estimate:: 3 days]  [status:: 🔄 In Progress]
 
 ### Story 6 — [Calibration Settings]
 - [ 1 ] [Calibration Setting Addition]  [owner:: โตเกียว]  [estimate:: --]  [status:: 🔲 Todo]
