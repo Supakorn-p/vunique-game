@@ -16,7 +16,7 @@ MonoGame | ทำระบบเสียง (sound) | ระบบเสีย�
 macOS มีปัญหาเรื่อง Font Rendering |
 ---
 ## Action Items & Blockers Resolution
-- [ ] [ช่วย Sebastien Tanapon Chapelin แก้โค้ดระบบจับจังหวะและระบบเสียง] [status:: doing]
+- [ ] [ช่วย Sebastien Tanapon Chapelin แก้ระบบจับจังหวะและระบบเสียง] [status:: doing]
 [owner:: Supakorn Pairat] [due:: 2026-09-10]
 - [ ] [ยืนยันขนาด Tile Size Natpasin Witee] [status:: done] [owner:: Supakorn Pairat]
 [due:: 2026-09-08]
