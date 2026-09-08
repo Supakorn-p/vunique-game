@@ -75,7 +75,7 @@
 
 ## Daily Notes
 
-### [วันที่]
+### [9/8/2026]
 
 **เมื่อวาน:** วาด Asset สำหรับ prototype เสร็จแล้ว มี character spritesheet / background / UI symbol ทำแบบลวกๆ และกำลังร่างปก
 **วันนี้:** กำลังร่างเฟรมเพิ่มเติมอยู่จากที่ใช้ในprototype
