@@ -36,7 +36,7 @@
 
 ### Story 1 — [Song & Sounds]
 - [ 1 ] [Song Composing]  [owner:: โตเกียว]  [estimate:: --]  [status:: 🔲 Todo]
-- [ 2 ] [Sound Designing]  [owner:: โตเกียว, เซบาส]  [estimate:: --]  [status:: 🔲 Todo]
+- [ 2 ] [Sound Designing]  [owner:: โตเกียว, เซบาส]  [estimate:: --]  [status:: 🔄 In Progress]
 
 ### Story 2 — [Primary Sprites & Animations]
 - [ 1 ] [Spriting]  [owner:: กาน, พี]  [estimate:: --]  [status:: 🔲 Todo]
