@@ -1,3 +1,16 @@
+# ==========================================
+# Project Build Outputs & IDE Rules
+# ==========================================
+bin/
+obj/
+Content/bin/
+Content/obj/
+*.mgcontent
+
+# ==========================================
+# Personal IDE & Temp (Added by tokyo)
+# ==========================================
+.vscode/
 bin/
 obj/
 .vs/
