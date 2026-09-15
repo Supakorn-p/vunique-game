@@ -11,3 +11,4 @@ project/obj/
 prokect/Content/bin/
 project/Content/obj/
 *.mgcontent
+.vscode/
