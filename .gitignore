@@ -1,8 +1,11 @@
 # ==========================================
-# Personal IDE & Temp (Added by Member)
+# Project Build Outputs & IDE Rules
 # ==========================================
 bin/
 obj/
+Content/bin/
+Content/obj/
+*.mgcontent
 .vs/
 *.user
 *.suo
