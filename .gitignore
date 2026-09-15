@@ -6,6 +6,8 @@ obj/
 Content/bin/
 Content/obj/
 *.mgcontent
-.vs/
-*.user
-*.suo
+
+# ==========================================
+# Personal IDE & Temp (Added by tokyo)
+# ==========================================
+.vscode/
