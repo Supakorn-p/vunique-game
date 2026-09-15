@@ -7,27 +7,16 @@
 
 | สมาชิก (Domain) | อาทิตย์ที่ผ่านมาทำอะไรมาบ้าง (Done) | อาทิตย์นี้จะทำอะไร (Plan) | ปัญหา/อุปสรรคที่พบ (Blockers) |
 | --- | --- | --- | --- |
+| ชื่อ (Role) | งานที่ทำแล้ว | งานที่จะทำต่อ | ปัญหา / อุปสรรค |
+| --- | --- | --- | --- |
 | โตเกียว (Sound Designer) | ได้ใส่เสียง placeholder เข้าเพื่อทดสอบระบบ | แยกเสียง feedback ให้สื่อได้ชัดเจน | การหาเสียงเพื่อมาประกอบในเกม |
-
 | โตเกียว (Programmer) | เขียนโค้ด Core Game ของ RaveYard บน MonoGame | Import Assets | เสียงไม่ sync |
-
-| กาน (Artist) | ทำ art และ spritesheet สำหรับเกม | ทำต่อไป |
-
-| เซบาส (Additional Programmer) | ทำ Distractions ให้เกม |
-Import Assets ให้กับแต่ละตัว | อาจไม่เหมาะสมในบางช่วง |
-
-| กาน (Artist) | วาด Asset สำหรับ prototype เสร็จแล้ว มี character spritesheet / background / UI symbol ทำแบบลวกๆ  |
-ต่อยอดทำ Asset สำหรับใช้งานจริง  character spritesheet / background / UI symbol | ยังไม่มีปัญหา |
-
-| Sebastien Tanapon Chapelin (Programmer) | เขียนโค้ดระบบจับจังหวะเสร็จ และทดสอบ Import Sprite เข้า
-MonoGame | ทำระบบเสียง (sound) | ระบบเสียงยังไม่สมูท์
-ตัวโน๊ตกับเสียงยังไม่ตรงกันเป็นบางจังหวะ |
-| Kodchakorn Laikham (Designer) | ร่าง Layout Tilemap ด่าน 1 ใน Tiled ขนาด 32x32 |
-จัดวาง Collision Layer ให้ตรงกับ Tilemap | รอขนาด Tile Size ที่โปรแกรมเมอร์ต้องการยืนยัน
-|
-| Pichaicharn Promma (Gamedesigner) | วางโครงสร้าง ScreenManager และหน้า Title Screen |
-เชื่อมต่อระบบเปลี่ยน State ระหว่าง Title Screen และ Gameplay | โค้ด MonoGame บน
-macOS มีปัญหาเรื่อง Font Rendering |
+| กาน (Artist) | ทำ art และ spritesheet สำหรับเกม | ทำต่อไป |  |
+| เซบาส (Additional Programmer) | ทำ Distractions ให้เกม | Import Assets ให้กับแต่ละตัว | อาจไม่เหมาะสมในบางช่วง |
+| กาน (Artist) | วาด Asset สำหรับ prototype เสร็จแล้ว มี character spritesheet / background / UI symbol ทำแบบลวกๆ | ต่อยอดทำ Asset สำหรับใช้งานจริง character spritesheet / background / UI symbol | ยังไม่มีปัญหา |
+| Sebastien Tanapon Chapelin (Programmer) | เขียนโค้ดระบบจับจังหวะเสร็จ และทดสอบ Import Sprite เข้า MonoGame | ทำระบบเสียง (sound) | ระบบเสียงยังไม่สมูท์ ตัวโน๊ตกับเสียงยังไม่ตรงกันเป็นบางจังหวะ |
+| Kodchakorn Laikham (Designer) | ร่าง Layout Tilemap ด่าน 1 ใน Tiled ขนาด 32x32 | จัดวาง Collision Layer ให้ตรงกับ Tilemap | รอขนาด Tile Size ที่โปรแกรมเมอร์ต้องการยืนยัน |
+| Pichaicharn Promma (Gamedesigner) | วางโครงสร้าง ScreenManager และหน้า Title Screen | เชื่อมต่อระบบเปลี่ยน State ระหว่าง Title Screen และ Gameplay | โค้ด MonoGame บน macOS มีปัญหาเรื่อง Font Rendering |
 ---
 ## ✅ Action Items & Blockers Resolution
 - [ ] [หาเสียงใน freesound.org/Pixabay เพื่อตัดต่อและนำมาประกอบในเกม] [status:: doing]
