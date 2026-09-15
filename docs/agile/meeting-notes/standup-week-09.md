@@ -15,6 +15,9 @@
 
 | เซบาส (Additional Programmer) | ทำ Distractions ให้เกม |
 Import Assets ให้กับแต่ละตัว | อาจไม่เหมาะสมในบางช่วง |
+
+| กาน (Artist) | วาด Asset สำหรับ prototype เสร็จแล้ว มี character spritesheet / background / UI symbol ทำแบบลวกๆ  |
+ต่อยอดทำ Asset สำหรับใช้งานจริง  character spritesheet / background / UI symbol | ยังไม่มีปัญหา |
 ---
 ## ✅ Action Items & Blockers Resolution
 - [ ] [หาเสียงใน freesound.org/Pixabay เพื่อตัดต่อและนำมาประกอบในเกม] [status:: doing]
@@ -28,6 +31,18 @@ Import Assets ให้กับแต่ละตัว | อาจไม่เ
 [due:: 2026-09-08]
 - [ ] [ทดสอบเกม] [status:: todo]
 [owner:: All] [due:: 2026-09-12]
+
+- [ ] [ ทำ และให้เพื่อนเช็ค asset prototype ] [status:: done ] [owner:: กาน]
+  [due:: done 8/8/2026 ]
+
+- [ ] [ เช็ค animation ตัวละคร สำหรับใช้จริงคร่าวๆ ] [status:: in progress] [owner:: กาน]
+  [due:: 20/8/2026]
+
+- [ ] [ UI ] [status:: in progress] [owner:: กาน]
+  [due:: 20/8/2026]
+
+- [ ] [ cover game ] [status:: in progress] [owner:: กาน]
+  [due:: 20/8/2026]
 ---
 ## Related Documents
 - [[docs/agile/sprint-plan-01|Sprint 1 Plan]]
