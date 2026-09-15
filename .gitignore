@@ -1,8 +1,18 @@
 # ==========================================
-# Personal IDE & Temp (Added by Member)
+# MonoGame Build Outputs (Added by Dev Lead)
 # ==========================================
+<<<<<<< HEAD
 bin/
 obj/
-Content/bin/
-Content/obj/
+.vs/
+*.user
+*.suo
+
+// Go home !
+=======
+project/bin/
+project/obj/
+prokect/Content/bin/
+project/Content/obj/
 *.mgcontent
+>>>>>>> 6516eee1980242683ebe5ff0742efa464e2c4d24
