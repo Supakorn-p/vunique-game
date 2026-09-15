@@ -1,6 +1,9 @@
 <!-- Template เต็มไฟล์สำหรับสร้าง docs/agile/sprint-plan-[NN].md ของ Sprint ไหนก็ได้ -->
+
 <!-- ดึง Story ของ Sprint นี้มาจาก docs/agile/02-sprint-backlog.md -->
+
 <!-- Sprint 1: เปลี่ยนชื่อ sprint-01.md จาก Lab 07 เป็น sprint-plan-01.md แล้วแทนที่เนื้อหาด้วย template นี้ -->
+
 <!-- Sprint 2-4 ในแลปถัดไป: คัดลอกไฟล์นี้ทั้งไฟล์ไปสร้าง sprint-plan-02.md, sprint-plan-03.md, sprint-plan-04.md ตามลำดับ -->
 
 # Sprint [N] Plan
@@ -13,18 +16,18 @@
 
 ## Sprint Backlog
 
-| # | User Story | รับผิดชอบ | MoSCoW | Estimate (SP) | Status |
-|---|---|---|---|---|---|
-| 1 | As a player, I want to enjoy the song and be able to make out what sounds mean what during the game | [ชื่อ] | Must Have | [SP] | 🔄 In Progress |
-| 2 | As an artist, I want there to be sprites and animations to give the game its charm | [ชื่อ] | Must Have | [SP] | 🔲 Todo |
-| 3 | As a player, I want my inputs to be responsive to the rhythm | [ชื่อ] | Must Have | [SP] | ✅ Done |
-| 4 | As a player, I want to see how the scenery changes the further you play | [ชื่อ] | Should Have | [SP] | 🔲 Todo |
-| 5 | As a designer, I want there to be distractions during gameplay to add some difficulty | [ชื่อ] | Should Have | [SP] | 🔲 Todo |
-| 6 | As a player, I'd like to be able to do settings for the calibration | [ชื่อ] | Nice to Have | [SP] | 🔲 Todo |
-| 7 | As an animator, I'd like to add more animations to the game to make it more alive | [ชื่อ] | Nice to Have | [SP] | 🔲 Todo |
-
+| # | User Story                                                                                          | รับผิดชอบ | MoSCoW       | Estimate (SP) | Status         |
+| - | --------------------------------------------------------------------------------------------------- | ------------------ | ------------ | ------------- | -------------- |
+| 1 | As a player, I want to enjoy the song and be able to make out what sounds mean what during the game | [ชื่อ]         | Must Have    | [SP]          | 🔄 In Progress |
+| 2 | As an artist, I want there to be sprites and animations to give the game its charm                  | [ชื่อ]         | Must Have    | [SP]          | 🔲 Todo        |
+| 3 | As a player, I want my inputs to be responsive to the rhythm                                        | [ชื่อ]         | Must Have    | [SP]          | ✅ Done        |
+| 4 | As a player, I want to see how the scenery changes the further you play                             | [ชื่อ]         | Should Have  | [SP]          | 🔲 Todo        |
+| 5 | As a designer, I want there to be distractions during gameplay to add some difficulty               | [ชื่อ]         | Should Have  | [SP]          | 🔲 Todo        |
+| 6 | As a player, I'd like to be able to do settings for the calibration                                 | [ชื่อ]         | Nice to Have | [SP]          | 🔲 Todo        |
+| 7 | As an animator, I'd like to add more animations to the game to make it more alive                   | [ชื่อ]         | Nice to Have | [SP]          | 🔲 Todo        |
 
 ## Status Legend
+
 - 🔲 Todo
 - 🔄 In Progress
 - ✅ Done
@@ -35,6 +38,7 @@
 ## Tasks
 
 ### Story 1 — [Song & Sounds]
+
 - [ ] [Song Composing]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
 - [ ] [Sound Designing]  [owner:: ชื่อ]  [estimate:: Nh]  [status:: todo]
 
@@ -43,6 +47,7 @@
 ## Daily Notes
 
 ### [วันที่]
+
 **เมื่อวาน:** ...
 **วันนี้:** ...
 **Blocked:** ...
@@ -50,6 +55,7 @@
 ---
 
 ## Links
+
 - [[docs/gdd/00-concept|GDD Concept]]
 - [[docs/agile/01-product-backlog|Product Backlog]]
 - [[docs/agile/02-sprint-backlog|Sprint Backlog]]
