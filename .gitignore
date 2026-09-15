@@ -1,8 +1,13 @@
 # ==========================================
-# MonoGame Build Outputs (Added by Karn)
+# Project Build Outputs & IDE Rules
 # ==========================================
 bin/
 obj/
 .vs/
 *.user
 *.suo
+project/bin/
+project/obj/
+prokect/Content/bin/
+project/Content/obj/
+*.mgcontent
