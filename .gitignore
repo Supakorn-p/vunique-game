@@ -6,3 +6,8 @@ project/obj/
 prokect/Content/bin/
 project/Content/obj/
 *.mgcontent
+
+# ==========================================
+# Personal IDE & Temp (Added by tokyo)
+# ==========================================
+.vscode/
