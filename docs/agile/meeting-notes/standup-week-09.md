@@ -18,6 +18,16 @@ Import Assets ให้กับแต่ละตัว | อาจไม่เ
 
 | กาน (Artist) | วาด Asset สำหรับ prototype เสร็จแล้ว มี character spritesheet / background / UI symbol ทำแบบลวกๆ  |
 ต่อยอดทำ Asset สำหรับใช้งานจริง  character spritesheet / background / UI symbol | ยังไม่มีปัญหา |
+
+| Sebastien Tanapon Chapelin (Programmer) | เขียนโค้ดระบบจับจังหวะเสร็จ และทดสอบ Import Sprite เข้า
+MonoGame | ทำระบบเสียง (sound) | ระบบเสียงยังไม่สมูท์
+ตัวโน๊ตกับเสียงยังไม่ตรงกันเป็นบางจังหวะ |
+| Kodchakorn Laikham (Designer) | ร่าง Layout Tilemap ด่าน 1 ใน Tiled ขนาด 32x32 |
+จัดวาง Collision Layer ให้ตรงกับ Tilemap | รอขนาด Tile Size ที่โปรแกรมเมอร์ต้องการยืนยัน
+|
+| Pichaicharn Promma (Gamedesigner) | วางโครงสร้าง ScreenManager และหน้า Title Screen |
+เชื่อมต่อระบบเปลี่ยน State ระหว่าง Title Screen และ Gameplay | โค้ด MonoGame บน
+macOS มีปัญหาเรื่อง Font Rendering |
 ---
 ## ✅ Action Items & Blockers Resolution
 - [ ] [หาเสียงใน freesound.org/Pixabay เพื่อตัดต่อและนำมาประกอบในเกม] [status:: doing]
@@ -43,6 +53,13 @@ Import Assets ให้กับแต่ละตัว | อาจไม่เ
 
 - [ ] [ cover game ] [status:: in progress] [owner:: กาน]
   [due:: 20/8/2026]
+
+- [ ] [ช่วย Sebastien Tanapon Chapelin แก้ระบบจับจังหวะและระบบเสียง] [status:: doing]
+[owner:: Supakorn Pairat] [due:: 2026-09-10]
+- [ ] [ยืนยันขนาด Tile Size Natpasin Witee] [status:: done] [owner:: Supakorn Pairat]
+[due:: 2026-09-08]
+- [ ] [ทดสอบ Cross-platform Font บน Windows/macOS] [status:: todo]
+[owner:: Supakorn Pairat] [due:: 2026-09-12]
 ---
 ## Related Documents
 - [[docs/agile/sprint-plan-01|Sprint 1 Plan]]
