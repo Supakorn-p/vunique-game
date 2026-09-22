@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weekly Stand-up Meeting — Week 09
 
 **วันที่ประชุม:** 2026-09-08 | **Sprint:** Sprint 1

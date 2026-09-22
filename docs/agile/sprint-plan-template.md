@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 <!-- Template เต็มไฟล์สำหรับสร้าง docs/agile/sprint-plan-[NN].md ของ Sprint ไหนก็ได้ -->
 
-=======
-.<!-- Template เต็มไฟล์สำหรับสร้าง docs/agile/sprint-plan-[NN].md ของ Sprint ไหนก็ได้ -->
->>>>>>> 72bbafc7a9ff1e16bff7ba3135fecfe734844360
 <!-- ดึง Story ของ Sprint นี้มาจาก docs/agile/02-sprint-backlog.md -->
 
 <!-- Sprint 1: เปลี่ยนชื่อ sprint-01.md จาก Lab 07 เป็น sprint-plan-01.md แล้วแทนที่เนื้อหาด้วย template นี้ -->
