@@ -33,12 +33,17 @@ public class Game1 : Game
 
         _screenManager = new ScreenManager();
         Components.Add(_screenManager);
+
+        IsFixedTimeStep = false;
+        _graphics.PreferredBackBufferWidth = 1280;
+        _graphics.PreferredBackBufferHeight = 720;
+        Window.AllowUserResizing = true;
     }
 
     protected override void Initialize()
     {
         base.Initialize();
-        _screenManager.ShowScreen(new scGameplay(this, "prototype"));
+        _screenManager.ShowScreen(new scGameplay(this, "peakuniku"));
     }
 
     protected override void LoadContent()
@@ -53,6 +58,9 @@ public class Game1 : Game
 
         // poll input
         KeyboardExtended.Update();
+        DebugTool.OnKeyPressed(KeyboardExtended.GetState());
+
+        Window.Title = $"Raveyard ({(int)(1.0/gameTime.ElapsedGameTime.TotalSeconds)})";
 
         base.Update(gameTime);
     }
